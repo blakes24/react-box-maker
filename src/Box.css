@@ -1,0 +1,12 @@
+.Box {
+	display: inline-block;
+	margin: 1em;
+	position: relative;
+	border: 2px solid black;
+}
+
+.Box-btn {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
